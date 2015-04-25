@@ -13,3 +13,6 @@ This is a collection of all my notes in markdown. including:
 I put it here for easy link from other website. 
 
 Some are personal stuff, yet some may be useful to others.
+
+
+- [CPPPrimer Solution](CPPPrimer)
