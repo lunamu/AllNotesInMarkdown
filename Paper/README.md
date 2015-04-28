@@ -1,6 +1,6 @@
 # Paper Notes
 
-These are some of my paper notes.
+These are some of my notes on important papers.
 
 
 ## Graphics
