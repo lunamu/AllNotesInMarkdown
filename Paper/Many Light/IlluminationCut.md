@@ -18,7 +18,7 @@ Main:
 - Light cuts builds a tree on VPLs where each node represents a cluster of VPLs in subtree of that node. But each point with different light cut, and descending in tree is expensive.
 - LightSlice grouped point-clusters (shading points), then do point-cluster-wise lightcuts. But no error bound, and if radiance of points within a group is highly varying will fail.
 - Illumination cut idea: cluster point-VPL pairs.
-- ![Difference & Contribution in on image](img/000_IlluminanceCut1.png =800x)
+- ![Difference & Contribution in on image](img/000_IlluminanceCut1.png)
 - Difference with Multidimensional Light-cuts approach
 
 ## 2. Related Work
