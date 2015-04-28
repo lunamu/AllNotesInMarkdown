@@ -11,3 +11,4 @@ These are some of my notes on important papers.
 
 - [Lightcuts](Many\ Light/Lightcuts.jpg)
 - [IlluminationCut](Many\ Light/IlluminationCut.md)
+- [Lightslice](Many\ Light/Lightslice_1.jpg)
