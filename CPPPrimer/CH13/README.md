@@ -1,5 +1,12 @@
 # Chapter 13 Copy Control
 
+---
+Chapter 13 TODOs:
+- Other exercises.
+- Finish Copy-Control examples & memory management class by myself.
+
+
+
 ## Exercise 13.1
 
 Copy constructor is a constructor with its first parameter as reference type, and other parameters with default values.
@@ -303,3 +310,7 @@ private:
 
 ## Exercise 13.29
 Overloaded functions ensure no recursion loop.
+
+
+
+
