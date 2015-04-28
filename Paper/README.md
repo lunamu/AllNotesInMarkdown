@@ -9,5 +9,5 @@ These are some of my paper notes.
 
 #### Many Light Rendering
 
-- [Lightcuts](Many\ Light/lightcut.jpg)
+- [Lightcuts](Many\ Light/lightcuts.jpg)
 - [IlluminationCut](Many\ Light/IlluminationCut.md)
